@@ -1,0 +1,13 @@
+{
+  "appId": "com.calcnova.app",
+  "appName": "CalcNova",
+  "webDir": "dist",
+  "server": {
+    "androidScheme": "https"
+  },
+  "android": {
+    "allowMixedContent": false,
+    "captureInput": true,
+    "webContentsDebuggingEnabled": false
+  }
+}

@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">CalcNova</string>
+    <string name="title_activity_main">CalcNova</string>
+    <string name="package_name">com.calcnova.app</string>
+    <string name="custom_url_scheme">com.calcnova.app</string>
+</resources>

@@ -1,0 +1,6 @@
+{
+  "name": "CalcNova",
+  "description": "A beautiful Material 3 styled comprehensive utility calculator suite featuring Finance, Daily, Health, Education, Unit Converter, and Time & Date calculations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
